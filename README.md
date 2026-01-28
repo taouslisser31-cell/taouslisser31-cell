@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bonjour, moi c'est TAOUS LISSER !
+### Étudiante en L3 Informatique UVSQ-Paris Saclay
+Je suis une future ingénieure passionnée par le développement logiciel et l'algorithmique, actuellement à la recherche d'une **alternance** pour mon Master.
 
-<!--
-**taouslisser31-cell/taouslisser31-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Compétences Techniques
+* **Langages :** Python, Java (POO), C (Système), SQL, R (Data Science), Assembleur.
+* **Web :** HTML, CSS, JavaScript (Frontend/Backend).
+* **Algorithmique :** Graphes, Programmation Dynamique, Structures de données complexes.
+* **Outils :** Linux (Shell), Git/GitHub, VS Code, PL/SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projets Académiques Marquants
+* **Projet Pluridisciplinaire :** Création d'un site web complet (Design + Front + Back).
+* **Compilation :** Développement d'un analyseur d'automates (Théorie des langages).
+* **Sciences des Données :** Analyse et programmation système sous R.
+* **Dev App :** .
+
+---
+
+### Me contacter
+* **LinkedIn :** 
+* **Email :** taouslisser31@gmail.com
