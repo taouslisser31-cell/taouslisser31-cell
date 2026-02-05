@@ -5,7 +5,7 @@ Je suis une future ingénieure passionnée par le développement logiciel et l'a
 ---
 
 ### Compétences Techniques
-* **Langages :** Python, Java (POO), C (Système), SQL, R (Data Science), Assembleur.
+* **Langages :** Python, Java (POO), C (Système), SQL, R (Data Science),Rust, Assembleur.
 * **Web :** HTML, CSS, JavaScript (Frontend/Backend).
 * **Algorithmique :** Graphes, Programmation Dynamique, Structures de données complexes.
 * **Outils :** Linux (Shell), Git/GitHub, VS Code, PL/SQL.
